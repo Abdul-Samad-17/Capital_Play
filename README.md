@@ -325,7 +325,7 @@ Core entities include:
 
 ## User Dashboard
 
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](screenshots/user_dashboard.png)
 
 ---
 
@@ -337,7 +337,7 @@ Core entities include:
 
 ## Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ---
 
